@@ -1,0 +1,11 @@
+{
+  "source_match_rows": 1095,
+  "source_delivery_rows": 260920,
+  "eligible_matches": 1061,
+  "train_matches": 991,
+  "test_matches": 70,
+  "test_year": 2024,
+  "cv_selected_model": "Ridge Regression",
+  "holdout_best_rmse_model": "Random Forest",
+  "measured_at_utc": "2026-11-11 21:20 UTC"
+}
